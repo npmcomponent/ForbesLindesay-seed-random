@@ -1,15 +1,8 @@
 {
-  "name": "seed-random",
-  "version": "2.2.0",
+  "name": "forbeslindesay-seed-random",
   "description": "Generate random numbers with a seed, useful for reproducible tests",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ForbesLindesay/seed-random.git"
-  },
-  "author": "ForbesLindesay",
+  "version": "2.2.0",
+  "keywords": [],
+  "dependencies": {},
   "license": "MIT"
 }
